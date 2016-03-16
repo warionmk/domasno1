@@ -1,32 +1,32 @@
-******MSP vo Veles
+# **MSP vo Veles**
 
-Voved
+## Voved
 
-Google grupata FIKT-KNI-MSP , od kade ke moze da se prevzemat i soodvetno koristat 
+*Google grupata FIKT-KNI-MSP , od kade ke moze da se prevzemat i soodvetno koristat*
 
-Faza na implementacija
+* Faza na implementacija
 
-nkrementalen model
+* inkrementalen model
 
-Ekstremno programiranje
+* Ekstremno programiranje
 
-Sinhroniziraj i stabiliziraj
+* Sinhroniziraj i stabiliziraj
 
-Spiralen model
+* Spiralen model
 
-Zaklucoci
+### Zaklucoci
 
-Obezbeduvanje na kvalitet na software
+* Obezbeduvanje na kvalitet na software
 
-Odrzuvanje na software
+* Odrzuvanje na software
 
-Dobar i los softwer
+* Dobar i los softwer
 
-Aspekti od specifikacija i dizajn na softverot
+* Aspekti od specifikacija i dizajn na softverot
 
-Aspekti na programiranje vo tim
+* Aspekti na programiranje vo tim
 
-Objektno orientiran pristap
+###### Objektno orientiran pristap
 
 Faza na testiranje
 
@@ -36,4 +36,4 @@ Testiranje na faza na baranjata
 
 Dokumentiranje
 
-Faza na specifikacii**
+Faza na specifikacii
